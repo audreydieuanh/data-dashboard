@@ -1,0 +1,20 @@
+.menu-link {
+    height: 100%;
+    width: 250px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    overflow-y: scroll;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    backdrop-filter: blur(1px);
+    font-family: Avenir, Century Gothic, sans-serif;
+        font-size: 25px;
+        font-style: normal;
+        font-weight: 100;
+        border-right: 1px solid black;
+}
