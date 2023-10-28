@@ -1,8 +1,5 @@
-<<<<<<< HEAD
+
 # Web Development Project 6 - *Brewery Dictionary*
-=======
-# Web Development Project 5 - *Data Dashboard*
->>>>>>> ec8520f13c9a951843bebba2757750b6aff575e2
 
 Submitted by: **Dieu Anh Trinh**
 
